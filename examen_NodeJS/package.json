@@ -1,0 +1,17 @@
+{
+  "name": "examen_nodejs",
+  "version": "1.0.0",
+  "description": "Examen de nodeJs de Lab IV",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Renzo Di Laudo",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
