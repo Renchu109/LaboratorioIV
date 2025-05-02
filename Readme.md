@@ -12,4 +12,10 @@ Trabajos Prácticos subidos hasta el momento:
 
 -TP5: Git&github
 
+-TP6: express
+
 -TP7: Docker-MongoDB_Mongoose
+
+-TP8: API-rest-ToDoList
+
+-TP9: toDoListAdvanced
