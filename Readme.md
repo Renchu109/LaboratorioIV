@@ -19,3 +19,7 @@ Trabajos Prácticos subidos hasta el momento:
 -TP8: API-rest-ToDoList
 
 -TP9: toDoListAdvanced
+
+-TP10: repaso-parcial
+
+-TP11: API-rest-prisma-postgreSQL
